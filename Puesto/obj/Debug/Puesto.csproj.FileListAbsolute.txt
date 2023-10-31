@@ -1,0 +1,14 @@
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\bin\Debug\Puesto.exe.config
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\bin\Debug\Puesto.exe
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\bin\Debug\Puesto.pdb
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.csproj.AssemblyReference.cache
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.Form1.resources
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.FormAgregar.resources
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.FormConsultar.resources
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.FormEliminar.resources
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.FormModificar.resources
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.Properties.Resources.resources
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.csproj.GenerateResource.cache
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.csproj.CoreCompileInputs.cache
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.exe
+C:\Users\Alumno-01\source\repos\Puesto\Puesto\obj\Debug\Puesto.pdb
