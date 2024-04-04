@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\urls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|c:\\users\\oscar\\desktop\\caba\u00F1a\\puestomiches\\puesto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\puesto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|c:\\users\\oscar\\desktop\\caba\u00F1a\\puestomiches\\puesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\puesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Puesto\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T06:18:09.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T06:18:09.822Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Puesto\\Urls.cs",
               "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\Urls.cs",
               "RelativeToolTip": "Puesto\\Urls.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAC4AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T06:17:07.946Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Puesto\\FormPedido.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:59:40.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T05:59:40.655Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Puesto\\FormAgregar.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAmwBMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:58:58.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T05:58:58.685Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Puesto\\FormModificar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:59:27.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T05:59:27.654Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Puesto\\FormConsultar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:59:08.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T05:59:08.733Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Puesto\\Form1.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:58:40.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T05:58:40.165Z"
             },
             {
               "$type": "Document",
