@@ -18,8 +18,7 @@ namespace Puesto
         {
             InitializeComponent();
 
-            string connectionString = @"Server=DESKTOP-MH79PIJ\SQLEXPRESS;Database=Miches;Integrated Security=True";
-            connection = new SqlConnection(connectionString);
+            connection = new SqlConnection(Urls.connectionString);
 
             // Llama al método para cargar los datos en el DataGridView
             CargarDatosEnDataGridView();

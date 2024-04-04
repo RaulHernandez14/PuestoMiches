@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|c:\\users\\oscar\\desktop\\caba\u00F1a\\puestomiches\\puesto\\urls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\urls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|c:\\users\\oscar\\desktop\\caba\u00F1a\\puestomiches\\puesto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|c:\\users\\oscar\\desktop\\caba\u00F1a\\puestomiches\\puesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\puesto\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\formpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\puesto\\formagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\formagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\puesto\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\puesto\\formconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\formconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\puesto\\formeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64770A02-BDD5-4FD5-99E3-5FCB69097107}|Puesto\\Puesto.csproj|solutionrelative:puesto\\formeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\Program.cs",
+              "RelativeDocumentMoniker": "Puesto\\Program.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\Program.cs",
+              "RelativeToolTip": "Puesto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:18:09.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Urls.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\Urls.cs",
+              "RelativeDocumentMoniker": "Puesto\\Urls.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\Urls.cs",
+              "RelativeToolTip": "Puesto\\Urls.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:17:07.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPedido.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormPedido.cs",
+              "RelativeDocumentMoniker": "Puesto\\FormPedido.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormPedido.cs",
+              "RelativeToolTip": "Puesto\\FormPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:59:40.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAgregar.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormAgregar.cs",
+              "RelativeDocumentMoniker": "Puesto\\FormAgregar.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormAgregar.cs",
+              "RelativeToolTip": "Puesto\\FormAgregar.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:58:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormModificar.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormModificar.cs",
+              "RelativeDocumentMoniker": "Puesto\\FormModificar.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormModificar.cs",
+              "RelativeToolTip": "Puesto\\FormModificar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:59:27.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormConsultar.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormConsultar.cs",
+              "RelativeDocumentMoniker": "Puesto\\FormConsultar.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormConsultar.cs",
+              "RelativeToolTip": "Puesto\\FormConsultar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:59:08.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\Form1.cs",
+              "RelativeDocumentMoniker": "Puesto\\Form1.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\Form1.cs",
+              "RelativeToolTip": "Puesto\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:58:40.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEliminar.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormEliminar.cs",
+              "RelativeDocumentMoniker": "Puesto\\FormEliminar.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\Caba\u00F1a\\PuestoMiches\\Puesto\\FormEliminar.cs",
+              "RelativeToolTip": "Puesto\\FormEliminar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:59:18.653Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1572,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
