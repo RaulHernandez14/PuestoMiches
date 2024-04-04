@@ -17,6 +17,7 @@ namespace Puesto
         private Color colorOriginalConectar;
         public Form1()
         {
+            
             InitializeComponent();
             connection = new SqlConnection(Urls.connectionString);
 
@@ -28,10 +29,15 @@ namespace Puesto
             btnEliminar.Enabled = false;
             btnModificar.Enabled = false;
             btnPedido.Enabled = false;
+
+            btnDesconectarme.Enabled = false;
+            btnDesconectarme.BackColor = Color.Red;
         }
 
         private void btnConectar_Click(object sender, EventArgs e)
         {
+            btnConectar.Enabled = false;
+            btnDesconectarme.Enabled = true;
             connection.Open();
             MessageBox.Show("Conexion ala BD:" + connection.Database + "  ha sido exitoso");
             btnConectar.BackColor = Color.Green;
@@ -50,6 +56,8 @@ namespace Puesto
 
         private void btnDesconectarme_Click(object sender, EventArgs e)
         {
+            btnConectar.Enabled = true;
+            btnDesconectarme.Enabled = false;
             connection.Close();
             MessageBox.Show("Se ha desconectado correctamente");
             btnDesconectarme.BackColor = Color.Red;
