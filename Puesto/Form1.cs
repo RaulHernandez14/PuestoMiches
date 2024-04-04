@@ -18,8 +18,7 @@ namespace Puesto
         public Form1()
         {
             InitializeComponent();
-            string connectionString = @"server= DESKTOP-MH79PIJ\SQLEXPRESS;Initial Catalog=Miches;Integrated Security=True";
-            connection = new SqlConnection(connectionString);
+            connection = new SqlConnection(Urls.connectionString);
 
             // Guarda el color original de btnConectar cuando se carga el formulario
             colorOriginalConectar = btnConectar.BackColor;

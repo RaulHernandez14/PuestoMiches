@@ -18,7 +18,8 @@ namespace Puesto
         public FormEliminar()
         {
             InitializeComponent();
-            string connectionString = @"Server=DESKTOP-MH79PIJ\SQLEXPRESS;Database=Miches;Integrated Security=True";
+            //string connectionString = @"Server=DESKTOP-MH79PIJ\SQLEXPRESS;Database=Miches;Integrated Security=True";
+            string connectionString = @"data source=OBB\OBBSERVER;initial catalog=Miches;user id=sa;password=ARISTOGATOS26;MultipleActiveResultSets=True;App=EntityFramework";
             connection = new SqlConnection(connectionString);
 
             CargarDatosEnDataGridView();
